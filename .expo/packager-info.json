@@ -3,8 +3,8 @@
   "expoServerPort": 19000,
   "packagerPort": 19000,
   "packagerPid": null,
-  "expoServerNgrokUrl": "https://yk-9b2.anonymous.rn-starter.exp.direct",
-  "packagerNgrokUrl": "https://yk-9b2.anonymous.rn-starter.exp.direct",
-  "ngrokPid": 28726,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
   "webpackServerPort": null
 }
