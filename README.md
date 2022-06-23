@@ -11,3 +11,9 @@
 - props
 
 - state
+
+- export Default
+
+- switch return; 필요?
+
+- reducer
